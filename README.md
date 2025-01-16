@@ -9,6 +9,7 @@ This game's objective is to replicate the old classic hangman game with a python
 ## Installation Instructions
 
 ## How to play the game
+Run the text (python milestones_5.py) in your terminal to initiate the game.
 
 ## The structure of files
 There are 3 python files within the hangman folder. each of this files corrospond to diffrent milestone tasks in the project
